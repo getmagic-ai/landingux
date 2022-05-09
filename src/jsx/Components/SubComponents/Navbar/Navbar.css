@@ -1,0 +1,12 @@
+.switch-btn{
+    border: 1px solid rgba(31, 62, 102, 1);
+    padding: 0 0 0 0 !important;
+}
+.active-btn{
+    background-color:rgba(31, 62, 102, 1) ;
+    color: white;
+    font-weight: 400;
+}
+.disable-btn{
+    font-weight: 400;
+}

@@ -1,0 +1,19 @@
+.influencers_main{
+     padding: 20px 12% 20px 12%
+}
+
+@media screen and (max-width: 1200px) {
+    .influencers_main{
+        padding: 20px 5% 20px 5%
+   }
+}
+@media screen and (max-width: 1023px) {
+    .influencers_main{
+        padding: 20px 2% 20px 2%
+   }
+}
+@media screen and (max-width: 640px) {
+    .influencers_main{
+        padding: 20px 0% 20px 0%
+   }
+}
